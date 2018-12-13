@@ -13,14 +13,14 @@ work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 ## Descrição do problema
 
 Os grupos devem implementar um jogo em C# \[[1][ref1],[2][ref2]\] usando os
-principais *design patterns* para jogos \[[3][ref3]\], bem como **design
-patterns** mais gerais \[[4][ref4]\] quando apropriado, tendo sempre em conta
+principais *design patterns* para jogos \[[3][ref3]\], bem como *design
+patterns* mais gerais \[[4][ref4]\] quando apropriado, tendo sempre em conta
 os diferentes princípios de design de classes, como por exemplo os princípios
 [SOLID][].
 
 ### O jogo a desenvolver
 
-O jogo deve ser desenvolvido em consola, mais especificamente como uma
+O jogo deve ser desenvolvido em modo de consola, mais especificamente como uma
 aplicação .NET Core multi-plataforma, devendo também funcionar e ser testado em
 Mac e/ou Linux (devem ser evitadas classes ou métodos específicos para Windows).
 O jogo em si deve ser jogável em tempo real, ou seja, não deve ser *turn-based*.
@@ -39,15 +39,17 @@ Aceitam-se propostas, mas ficam algumas sugestões:
 
 Cada grupo deve implementar um jogo diferente, sendo que os primeiros a
 indicar a escolha via email ou Moodle terão direito a desenvolver o respetivo
-jogo. Alguns jogos poderão ter dificuldades específicas, pelo que se tiverem
-dúvidas entrem em contacto para analisarmos a situação.
+jogo. A lista de jogos atribuídas será colocada e atualizada no Moodle. Alguns
+jogos poderão ter dificuldades específicas, pelo que se tiverem dúvidas entrem
+em contacto para analisarmos a situação.
 
 Não é necessário (e na maior parte dos casos, nem sequer é possível) que o jogo
 seja uma réplica exata do original, bastando implementar as mecânicas básicas,
 ser jogável e ter algum tipo de pontuação. É também necessário indicar, antes
 do jogo começar, as regras e controlos do mesmo. Naturalmente serão bonificadas
 soluções mais completas, com menu, lista de *high scores* persistente entre
-jogos, vários níveis, etc.
+jogos, vários níveis, animações dinâmicas, etc. Não é necessário o uso de cores
+na consola nem de som.
 
 <a name="reqmin"></a>
 
@@ -120,15 +122,15 @@ Este projeto tem os seguintes objetivos:
     *   Descrição da solução:
         *   Arquitetura da solução, com breve explicação de como o programa foi
             organizado, indicação dos *design patterns* utilizados e a razão do
-            seu uso, bem como dos algoritmos utilizados (e.g., para deteção de
-            colisões, cálculo de ângulos e trajetórias, etc).
+            seu uso, bem como dos algoritmos implementados (e.g., para deteção
+            de colisões, cálculo de ângulos e trajetórias, etc).
         *   Um diagrama UML de classes simples (i.e., sem indicação dos
             membros da classe) descrevendo a estrutura de classes.
         *   Um fluxograma mostrando o funcionamento do programa.
     *   Conclusões e matéria aprendida.
     *   Referências, incluindo trocas de ideias com colegas, código aberto
-        reutilizado ou no qual se basearam (e.g., do StackOverflow) e
-        bibliotecas de terceiros utilizadas. Devem ser o mais detalhados
+        reutilizado ou no qual se basearam (e.g., do StackOverflow ou do GitHub)
+        e bibliotecas de terceiros utilizadas. Devem ser o mais detalhados
         possível.
     *   **Nota:** o relatório deve ser simples e breve, com informação mínima e
         suficiente para que seja possível ter uma boa ideia do que foi feito.
