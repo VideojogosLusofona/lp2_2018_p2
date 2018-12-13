@@ -39,7 +39,7 @@ Aceitam-se propostas, mas ficam algumas sugestões:
 
 Cada grupo deve implementar um jogo diferente, sendo que os primeiros a
 indicar a escolha via email ou Moodle terão direito a desenvolver o respetivo
-jogo. A lista de jogos atribuídas será colocada e atualizada no Moodle. Alguns
+jogo. A lista de jogos atribuídos será colocada e atualizada no Moodle. Alguns
 jogos poderão ter dificuldades específicas, pelo que se tiverem dúvidas entrem
 em contacto para analisarmos a situação.
 
@@ -76,7 +76,7 @@ O projeto deve estar devidamente organizado, fazendo uso de classes, `struct`s
 e/ou enumerações, consoante seja mais apropriado. Cada tipo (i.e., classe,
 `struct` ou enumeração) deve ser colocado num ficheiro com o mesmo nome. Por
 exemplo, uma classe chamada `Game` deve ser colocada no ficheiro `Game.cs`. Por
-sua vez, a escolha da coleções e *design patterns* também deve ser adequada a
+sua vez, a escolha de coleções e *design patterns* também deve ser adequada a
 cada situação. Serão previligiadas soluções que tenham em consideração bons
 princípios de design de classes, como é o caso dos princípios [SOLID][]. Estes
 *patterns* e princípios devem ser balanceados com o princípio [KISS][], crucial
