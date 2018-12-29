@@ -77,7 +77,7 @@ e/ou enumerações, consoante seja mais apropriado. Cada tipo (i.e., classe,
 `struct` ou enumeração) deve ser colocado num ficheiro com o mesmo nome. Por
 exemplo, uma classe chamada `Game` deve ser colocada no ficheiro `Game.cs`. Por
 sua vez, a escolha de coleções e *design patterns* também deve ser adequada a
-cada situação. Serão previligiadas soluções que tenham em consideração bons
+cada situação. Serão privilegiadas soluções que tenham em consideração bons
 princípios de design de classes, como é o caso dos princípios [SOLID][]. Estes
 *patterns* e princípios devem ser balanceados com o princípio [KISS][], crucial
 no desenvolvimento de qualquer sistema.
