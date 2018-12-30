@@ -152,7 +152,7 @@ não comparecerem na discussão, a nota final será zero.
 ## Entrega
 
 O projeto deve ser entregue por **grupos de 2 alunos** via Moodle até às 23h de
-30 de dezembro de 2018. Deve ser submetido um ficheiro `zip` com os seguintes
+6 de janeiro de 2019. Deve ser submetido um ficheiro `zip` com os seguintes
 conteúdos:
 
 *   Solução completa do projeto, contendo adicionalmente e obrigatoriamente:
